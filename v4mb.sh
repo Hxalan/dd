@@ -1,4 +1,4 @@
-wget https://ghproxy.com/https://raw.githubusercontent.com/afwfv/Hxalan/main/v4mb.tar.gz
+wget https://raw.githubusercontent.com/Hxalan/dd/main/v4mb.tar.gz
 tar -zxvf v4mb.tar.gz
 rm -f v4mb.tar.gz
 mv v4mb/panel panel
